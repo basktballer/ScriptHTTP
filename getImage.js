@@ -14,4 +14,5 @@ request.get('https://sytantris.github.io/http-examples/future.jpg')
         console.log("Downloading finished!")
       })
 
-console.log("Downloading complete!")
+// console.log("Downloading complete!")
+// console.log("Downloading complete!")
