@@ -1,0 +1,14 @@
+{
+  "name": "scripthttp",
+  "version": "1.0.0",
+  "description": "scripthttp exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eden Y",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
